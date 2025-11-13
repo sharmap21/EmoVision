@@ -1,0 +1,12 @@
+﻿KPI,Value
+Total Tweets,200000.0
+Unique Users,148416.0
+Positive Tweets,100000.0
+Negative Tweets,100000.0
+Neutral Tweets,53976.0
+Avg Sentiment Score,0.14344980100000002
+Tweets with URLs,8804.0
+Tweets with Mentions,93249.0
+Tweets with Hashtags,4621.0
+Avg Text Length,74.143195
+Avg Word Count,13.181545

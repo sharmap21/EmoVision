@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# venv & secrets
+venv/
+env/
+*.env
+
+# macOS
+.DS_Store
+
+# Raw / very large data (optional)
+datasets/raw/*
+# If processed CSVs are huge, you can also ignore them:
+# datasets/processed/*.csv
+
+# Outputs (keep just figures if any)
+outputs/*
+!outputs/figures/
+!outputs/figures/*.png
+
+# Model artifacts / cache
+*.pbixDataStorage
+*.pbitDataStorage
